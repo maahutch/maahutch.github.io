@@ -11,14 +11,14 @@ to classify their work.
 <br />
 <br />
 <br />
-###Co-occurrence Network of Academic Areas Across the Top 20 Business Schools in the US###
+### Co-occurrence Network of Academic Areas Across the Top 20 Business Schools in the US ###
 <img src="./co_occureence_plot_06_11_24.png">
 <br />
 We reviewed the Academic areas in the top twenty US Business schools as ranked by Bloomber News. A connection between two nodes means two or more Universities use those same terms. Displayed edges have a weight of three or higher and nodes are sized by degree.  
 <br />
 <br />
 <br />
-###A comparison of the network structure of each taxonomy###
+### A comparison of the network structure of each taxonomy ###
 <img src="./bar_plot_6_13_24_2.svg">
 <br />
 Each taxonomy was loaded into a Neo4j graph databases using the Neosemantics extension and the graph statistics calculated with the Graph Data Science library. 
