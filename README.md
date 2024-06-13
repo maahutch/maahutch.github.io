@@ -14,7 +14,7 @@ to classify their work.
 ### Co-occurrence Network of Academic Areas Across the Top 20 Business Schools in the US ###
 <img src="./co_occureence_plot_06_11_24.png">
 <br />
-We reviewed the Academic areas in the top twenty US Business schools as ranked by Bloomber News. A connection between two nodes means two or more Universities use those same terms. Displayed edges have a weight of three or higher and nodes are sized by degree.  
+We reviewed the Academic areas in the top twenty US Business schools as ranked by Bloomberg News. A connection between two nodes means two or more Universities use those same terms. Displayed edges have a weight of three or higher and nodes are sized by degree.  
 <br />
 <br />
 <br />
