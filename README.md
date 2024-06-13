@@ -1,2 +1,6 @@
 # maahutch.github.io
-A github page for displaying the data visualizations from 'The Case for a Unified Taxonomy for Business Data'
+Data visualizations from 'The Case for a Unified Taxonomy for Business Data'
+
+<img src="stacked_bar_6_13_24/svg">
+
+
