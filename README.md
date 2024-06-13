@@ -1,5 +1,6 @@
-# maahutch.github.io
-Data visualizations from 'The Case for a Unified Taxonomy for Business Data'
+# Data visualizations from 'The Case for a Unified Taxonomy for Business Data'
+<br />
+#### Matthew Hutchinson and Ella Hitchcock ####
 <br />
 <br />
 ### Usage of Taxonomies in the Top Journals ###
